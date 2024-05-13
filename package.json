@@ -1,0 +1,17 @@
+{
+  "name": "database-backup-cli",
+  "version": "1.0.0",
+  "description": "CLI utility for backing up a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SegunCodes",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.11",
+    "commander": "^12.0.0",
+    "mysql": "^2.18.1",
+    "typescript": "^5.4.5"
+  }
+}
