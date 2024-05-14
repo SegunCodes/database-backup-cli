@@ -13,12 +13,19 @@
   "dependencies": {
     "@types/node": "^20.12.11",
     "commander": "^12.0.0",
-    "mysql": "^2.18.1",
+    "figlet": "^1.7.0",
+    "mongodb": "^6.6.1",
+    "mysql2": "^3.9.7",
+    "pg": "^8.11.5",
+    "readline-sync": "^1.4.10",
     "typescript": "^5.4.5"
   },
   "devDependencies": {
     "@types/commander": "^2.12.2",
-    "@types/mysql": "^2.15.26",
+    "@types/figlet": "^1.5.8",
+    "@types/mongodb": "^4.0.7",
+    "@types/pg": "^8.11.6",
+    "@types/readline-sync": "^1.4.8",
     "ts-node": "^10.9.2"
   }
 }
